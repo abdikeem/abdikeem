@@ -21,10 +21,10 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdikeem&" alt="abdikeem" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kimzatecht"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kimzatecht" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/kimzatecht"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kimzatecht" /></a></p><br>
 
-<h3 align="centre">Connect with me:</h3>
-<p align="centre">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/kimzaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kimzaras" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdihakim abdirahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdihakim abdirahman" height="30" width="40" /></a>
 <a href="https://instagram.com/_kimza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kimza" height="30" width="40" /></a>
