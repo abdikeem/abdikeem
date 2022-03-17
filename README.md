@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [kimza.netlify.com](kimza.netlify.com)
-
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **kimza.co.ke@gmail.com**
+- 📫 How to reach me **kimza.netlify.com**
 
 - ⚡ Fun fact **I think that am funny in my zone**
 
