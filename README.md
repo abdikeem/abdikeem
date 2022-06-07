@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Abdihakim Abdirahman</h1>
 <h3 align="center">A passionate Software developer from Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/kimzaras" target="blank"><img src="https://img.shields.io/twitter/follow/kimzaras?logo=twitter&style=for-the-badge" alt="kimzaras" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kimza_abdihakim" target="blank"><img src="https://img.shields.io/twitter/follow/kimzaras?logo=twitter&style=for-the-badge" alt="kimzaras" /></a> </p>
 
 - 🌱 I’m currently learning **flutter** && **Solidity**
 
